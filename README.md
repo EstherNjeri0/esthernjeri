@@ -1,5 +1,5 @@
 <!--
-**njeri/njeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**makaraa006/makaraa006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi" />I'm Esther Njeri
@@ -12,7 +12,7 @@ I am a student learning programming. I am passionate to learn new skils everyday
 
 :mailbox: step in!
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/esther-ndicu-4b8836243a#gh-light-mode-only)
+
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/esther-ndicu-4b8836243a#gh-dark-mode-only)
 &nbsp;&nbsp;
 
@@ -41,11 +41,11 @@ I am a student learning programming. I am passionate to learn new skils everyday
 
 <!-- ### ⚒️ Stack  -->
 
-<!-- [![Njeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njeri&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
+<!-- [![Makaraa006 GitHub stats]https://github-readme-stats.vercel.app/api/top-langs/?username=makaraa006&layout=donut)](https://github.com/anuraghazra/github-readme-stats
 
-[!Njeri's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Njeri&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[!Makaraa006's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=makaraa006&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
- <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Njeri&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats) 
+ <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaraa006&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats) 
   -->
 
 
@@ -56,3 +56,4 @@ I am a student learning programming. I am passionate to learn new skils everyday
 
 
 "# makaraa006" 
+
