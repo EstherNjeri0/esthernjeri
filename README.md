@@ -13,7 +13,7 @@ I am a student learning programming. I am passionate to learn new skils everyday
 :mailbox: step in!
 
 
-(./img/linkedin-dark.svg)](https://www.linkedin.com/in/esther-ndicu-4b8836243-dark-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/esther-ndicu-4b8836243-dark-mode-only)
 &nbsp;&nbsp;
 
   
