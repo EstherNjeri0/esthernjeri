@@ -47,7 +47,6 @@ I am a student learning programming. I am passionate to learn new skils everyday
 
 [![makaraa006 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=makaraa006&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaraa006&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaraa006&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats) 
   -->
