@@ -12,7 +12,7 @@ I am a student learning programming. I am passionate to learn new skils everyday
 
 :mailbox: step in!
 
-imghttps://www.linkedin.com/in/esther-ndicu-4b8836243/)
+https://www.linkedin.com/in/esther-ndicu-4b8836243
 &nbsp;&nbsp;
 
   ## Skills
